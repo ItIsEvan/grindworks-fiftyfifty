@@ -17,4 +17,3 @@ func _ready() -> void:
 	ModLoaderLog.info("Adding ChestFinder", FIFTY_FIFTY_LOG)
 	add_child(chest_finder)
 	ModLoaderLog.info("ChestFinder added successfully", FIFTY_FIFTY_LOG)
-	
